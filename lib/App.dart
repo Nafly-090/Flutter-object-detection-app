@@ -45,10 +45,7 @@ class _AppState extends State<App> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Padding(
-                padding: const EdgeInsets.all(16.0),
-                child: Text("my app", style: TextStyle(fontSize: 24)),
-              ),
+              
               // Add more widgets here
             ],
           ),
